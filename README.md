@@ -1,5 +1,21 @@
 # 👋 Hi, I'm Othmane!
 👩🏻‍🎓 Studied [software engineer](https://1337.ma/en/) at the University Mohammed VI Polytechnique, Ben Guerir
+@keyframes spin {
+  from {
+    transform: rotateY(0deg);
+  }
+  to {
+    transform: rotateY(360deg);
+  }
+}
+
+.box {
+  width: 100px;
+  height: 100px;
+  background: blue;
+  animation: spin 2s infinite linear;
+}
+
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=utrshallio&show_icons=true&theme=radical)
 
