@@ -13,5 +13,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=utrshallio&icon=6&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=utrshallio&label=utrshallio&color=9&icon=2&pretty=false)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
