@@ -15,5 +15,6 @@
 [![](https://visitcount.itsvg.in/api?id=utrshallio&icon=6&color=1)](https://visitcount.itsvg.in)
 [![](https://visitcount.itsvg.in/api?id=utrshallio&label=utrshallio&color=9&icon=2&pretty=false)](https://visitcount.itsvg.in)
 [![](https://visitcount.itsvg.in/api?id=utrshallio&label=utrshallio&color=11&icon=4&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=utrshallio&label=Fuck%20it%20&color=12&icon=1&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
